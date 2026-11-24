@@ -5,7 +5,7 @@ version = 4
 [[package]]
 name = "audiopus_sys"
 version = "0.2.1"
-source = "git+https://github.com/bailu-obj/audiopus_sys.git#69a7c71616d5a67a81bc1b51c34b6e59d176668c"
+source = "git+https://github.com/bailu-dev/audiopus_sys.git#69a7c71616d5a67a81bc1b51c34b6e59d176668c"
 dependencies = [
  "cmake",
  "log",
